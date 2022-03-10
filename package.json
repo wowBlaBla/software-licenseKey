@@ -1,0 +1,27 @@
+{
+  "name": "awesome_bot",
+  "version": "1.0.0",
+  "description": "crypto BOT with multi feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowBlaBla/awesome-BOT.git"
+  },
+  "keywords": [
+    "crypto",
+    "Trading",
+    "BOT"
+  ],
+  "author": "xxx-TEAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowBlaBla/awesome-BOT/issues"
+  },
+  "homepage": "https://github.com/wowBlaBla/awesome-BOT#readme",
+  "dependencies": {
+    "software-license-key": "^1.0.1"
+  }
+}
